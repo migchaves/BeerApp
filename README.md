@@ -1,2 +1,6 @@
 # BeerApp
-Sample App using MVVM Design Pattern
+Sample App do demonstrate the implementation of the MVVM Design Pattern.
+
+#
+
+Folder structure:
